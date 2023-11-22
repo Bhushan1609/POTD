@@ -5,7 +5,7 @@ public:
         stack <char> st;
         string ret = "";
         for (auto i : s){
-            int ans = i;
+            int ans = i;akdsd
             if(ans == 32){
                 while(!st.empty()){
                     char ch = st.top();
