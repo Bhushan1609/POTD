@@ -21,7 +21,7 @@ public:
     }
     int cherryPickup(vector<vector<int>>& grid) {
         memset(dp,-1,sizeof(dp));
-        int n=grid.size();
+        int n=grid.size() ;
         int m=grid[0].size();
         return recursion(0,0,m-1,grid,n,m);
     }
