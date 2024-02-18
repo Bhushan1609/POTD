@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[1001][1001];
+    int  dp[1001][1001];
     int recursion(int i,int j,string s){
         if(i==j or i>j)return 1;
         if(s[i]!=s[j])return 0;
