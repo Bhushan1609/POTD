@@ -17,7 +17,7 @@ class Solution {
         int dir=time/(n-1);
         int rem=time%(n-1);
         if(dir%2==0){
-            return rem+1;
+            return rem+1; 
         }
         else{
             return n-rem;
