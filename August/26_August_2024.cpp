@@ -13,7 +13,7 @@ using pi=pair<T,P>;
 #define LL(...)ll __VA_ARGS__; IN(__VA_ARGS__)
 #define STR(...)string __VA_ARGS__; IN(__VA_ARGS__)
 #define CHR(...)char __VA_ARGS__; IN(__VA_ARGS__)
-#define DBL(...)long double __VA_ARGS__; IN(__VA_ARGS__)
+#define DBL(...)long double __VA_ARGS__; IN(__VA_ARGS__) 
 
 void read(int &a){cin>>a;}
 void read(long long &a){cin>>a;}
