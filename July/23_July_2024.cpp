@@ -13,7 +13,7 @@ using vdd = vector<vd<T>>;
 template <class T>
 using vddd = vector<vdd<T>>;
 template <class T>
-using vdddd = vector<vddd<T>>;
+using vdddd = vector<vddd<T>>; 
 template <class T>
 using vddddd = vector<vdddd<T>>;
 template <class T>
