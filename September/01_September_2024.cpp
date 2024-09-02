@@ -6,7 +6,7 @@ using ll=long long;
 using u32=unsigned int;
 using u64=unsigned long long;
 
-template <class T,class P>
+template <class T,class P>  
 using pi=pair<T,P>;
 
 #define INT(...)int __VA_ARGS__; IN(__VA_ARGS__)
