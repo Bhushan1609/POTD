@@ -5,7 +5,7 @@ using namespace std;
 using ll=long long;
 using u32=unsigned int;
 using u64=unsigned long long;
-
+ 
 template <class T,class P>  
 using pi=pair<T,P>;
 
